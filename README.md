@@ -1,6 +1,7 @@
 #  EDA on Air-Bnb-Booking-Analysis
 This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.
 Through EDA, Airbnb can understand pricing trends, identify popular neighborhoods, optimize search ranking, improve the guest experience, and identify opportunities for growth.
+
 There are many factors which influence the price of a listing. Which is why we aim to find the most important factors that affect the price and more importantly the features that is common among the most expensive listings. This will allow an aspiring Airbnb host to ensure that his listing is equipped with those important features such that he will be able to charge a higher price without losing customers. Moreover, a traveler will also know the factors to look into to get the lowest price possible while having certain features he prefers.
 Some of the specific findings that can be derived from EDA of Airbnb data include identifying the most popular neighborhoods for guests, understanding the factors that influence pricing, such as seasonality and demand, identifying areas where hosts need to improve, and providing targeted training and support to hosts to improve the overall guest experience.
 Overall, EDA of Airbnb data is an important tool for making data-driven business decisions and improving the overall quality of the Airbnb platform. By leveraging the insights derived from EDA, Airbnb can improve the guest experience, attract more hosts and guests to its platform, and grow its business.
